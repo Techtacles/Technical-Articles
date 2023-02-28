@@ -4,7 +4,8 @@ You can read about some of my content here:
 <br>
 ## Airbyte
 1.) Replicate postgres data to Redshift for analytics : https://airbyte.com/tutorials/postgres-to-redshift-data-replication<br>
-2.) Optimize Redshift performance and reduce costs: https://airbyte.com/blog/optimize-redshift-performance-and-reduce-costs<br>
+2.) Optimize Redshift performance and reduce costs: https://airbyte.com/blog/optimize-redshift-performance-and-reduce-costs<br><br>
+3.) Replicate data from Postgres to Apache Kafka: https://airbyte.com/tutorials/postgres-to-kafka
 ## Redpanda
 3.) Building an engine of record with Apache Spark (scala) , Bigquery and Redpanda : https://redpanda.com/blog/engine-of-record-apache-spark-bigquery<br>
 ## Paperspace
@@ -15,4 +16,5 @@ You can read about some of my content here:
 <br>
 7.) Using Apache Nifi to ingest data from Amazon S3 buckets to Hadoops Distributed File System: https://medium.com/@emmanueloffisong2002/data-ingestion-from-aws-s3-to-hdfs-a11bfc05b512<br>
 8.) Building a deep learning model to detect cancer in images: https://medium.com/@emmanueloffisong2002/building-a-deep-learning-model-to-detect-idc-cancer-in-images-13d0f98323dd <br>
-9.) What is Natural Language Processing: https://medium.com/@emmanueloffisong2002/what-is-natural-language-processing-and-its-applications-3bd8aad0aab
+9.) What is Natural Language Processing: https://medium.com/@emmanueloffisong2002/what-is-natural-language-processing-and-its-applications-3bd8aad0aab<br>
+10.)Best ways to optimize Apache Spark: https://medium.com/@emmanueloffisong2002/best-ways-to-optimize-apache-spark-b07c70080582
