@@ -6,6 +6,9 @@ You can read about some of my content here:
 1.) Replicate postgres data to Redshift for analytics : https://airbyte.com/tutorials/postgres-to-redshift-data-replication<br>
 2.) Optimize Redshift performance and reduce costs: https://airbyte.com/blog/optimize-redshift-performance-and-reduce-costs<br><br>
 3.) Replicate data from Postgres to Apache Kafka: https://airbyte.com/tutorials/postgres-to-kafka
+<br>
+## Estuary Flow
+1.) Stream data from Postgres to Snowflake: https://www.estuary.dev/stream-data-postgres-to-snowflake/<br>
 ## Redpanda
 3.) Building an engine of record with Apache Spark (scala) , Bigquery and Redpanda : https://redpanda.com/blog/engine-of-record-apache-spark-bigquery<br>
 ## Paperspace
