@@ -9,6 +9,7 @@ You can read about some of my content here:
 <br>
 ## Estuary Flow
 1.) Stream data from Postgres to Snowflake: https://www.estuary.dev/stream-data-postgres-to-snowflake/<br>
+2.) Two ways to connect Google Sheets with Snowflake: https://www.estuary.dev/google-sheets-to-snowflake/<br>
 ## Redpanda
 3.) Building an engine of record with Apache Spark (scala) , Bigquery and Redpanda : https://redpanda.com/blog/engine-of-record-apache-spark-bigquery<br>
 ## Paperspace
